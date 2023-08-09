@@ -1,4 +1,4 @@
-const baseURL = "http://flems.github.io/test/api/news";
+const baseURL = "https://flems.github.io/test/api/news";
 
 export const newsApi = {
   getNews(page?: number) {
