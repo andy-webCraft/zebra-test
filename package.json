@@ -2,7 +2,7 @@
   "name": "zebra-test",
   "version": "1.0.0",
   "author": "andy-webcraft",
-  "homepage": ".",
+  "homepage": "/zebra-test/",
   "private": true,
   "scripts": {
     "dev": "vite",
